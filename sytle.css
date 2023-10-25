@@ -1,0 +1,126 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.sigin_in{
+    /* border: 2px solid black; */
+    /* height: 50px; */
+}
+.text{
+    /* border: 2px solid black; */
+    /* width: 100px; */
+    /* margin-top: 10px; */
+    display: flex;
+     justify-content: space-evenly; */
+    align-items: center;
+    padding-left: 1000px;
+    padding-right: 50;
+    text-decoration:none;
+    list-style: none;
+    background-color: rgb(41, 0, 76);
+}
+.img{
+    border: 2px solid black;
+    width: 20px;
+    border-radius: 10px;
+}
+.plural{
+    /* border: 2px solid black; */
+    text-decoration: none;
+    color: rgba(141, 137, 137, 0.792);
+}
+.sikil{
+    /* border: 2px solid black; */
+    text-decoration: none;
+    color: rgba(141, 137, 137, 0.792);
+}
+.cloud{
+    /* border: 2px solid black; */
+    text-decoration: none;
+    color: rgba(141, 137, 137, 0.792);
+}
+.flow{
+ /* border: 2px solid black; */
+ text-decoration: none;
+ color: rgba(141, 137, 137, 0.792);
+}
+.blog{
+ /* border: 2px solid black; */
+ text-decoration: none;
+ color: rgba(141, 137, 137, 0.792);
+}
+.clas{
+ /* border: 2px solid black; */
+ text-decoration: none;
+ color: rgba(141, 137, 137, 0.792);
+ font-size: 20px;
+}
+.sigin{
+     /* border: 2px solid black; */
+     text-decoration: none;
+     color: rgba(141, 137, 137, 0.792);
+}
+.contact{
+    border: 2px solid black;
+    height: 70px;
+    background-color: rgb(78, 8, 143);
+}
+.ul7{
+    display: flex; 
+    margin: 30px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 17px;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-right: 1000px;   
+}
+.imgg{
+    /* border: 2px solid black; */
+    width: 30px;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+}
+.explor{
+    /* border: 2px solid black; */
+    color:rgba(247, 241, 241, 0.792) ;
+    text-decoration: none;
+}
+.sof{
+    /* border: 2px solid black; */
+    color: rgba(247, 241, 241, 0.792) ;
+    text-decoration: none;
+}
+.clou{
+    /* border: 2px solid black; */
+    color:rgba(247, 241, 241, 0.792) ;
+    text-decoration: none
+}
+.IT{
+    /* border: 2px solid black; */
+    color: rgba(247, 241, 241, 0.792) ;
+    text-decoration: none
+}
+.data{
+    /* border: 2px solid black; */
+    color: rgba(247, 241, 241, 0.792) ;
+    text-decoration: none
+}
+.secrut{
+    /* border: 2px solid black; */
+    color: rgba(247, 241, 241, 0.792) ;
+    text-decoration: none
+}
+.leadr{
+    /* border: 2px solid black; */
+    color: rgba(247, 241, 241, 0.792) ;
+    text-decoration: none
+}
+.contact ul li a:hover{
+color: red;
+}
+.sigin_in ul li a:hover{
+    color: red;
+}
